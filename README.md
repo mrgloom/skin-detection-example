@@ -1,6 +1,8 @@
 # Simple-skin-detection
 Simple pixelwise skin detection using [classification tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
 
+Implemented in python, dependencies: numpy, opencv, sklearn.
+
 Skin Segmentation Data Set from https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
 
 face.png image from http://graphics.cs.msu.ru/ru/node/899
