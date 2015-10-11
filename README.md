@@ -1,5 +1,5 @@
 # Simple-skin-detection
-Simple pixelwise skin detection using classification tree [classification tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
+Simple pixelwise skin detection using [classification tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
 
 Skin Segmentation Data Set from https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
 
