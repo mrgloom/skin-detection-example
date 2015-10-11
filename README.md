@@ -17,6 +17,9 @@ TODO:
 ~~~
 GMM
 http://www.ghvandoorn.nl/skindetection.html
+
+Histogram backprojection using 
+http://docs.scipy.org/doc/numpy/reference/generated/numpy.histogramdd.html
 ~~~
 
 
