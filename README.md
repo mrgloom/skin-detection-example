@@ -18,3 +18,10 @@ TODO:
 GMM
 http://www.ghvandoorn.nl/skindetection.html
 ~~~
+
+
+DATA:
+~~~
+http://lbmedia.ece.ucsb.edu/research/skin/skin.htm
+http://www.feeval.org/Data-sets/Skin_Colors.html
+~~~
