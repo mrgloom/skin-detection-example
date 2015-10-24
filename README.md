@@ -12,7 +12,7 @@ Data and tools:
 
 2. face.png image from http://graphics.cs.msu.ru/ru/node/899
 
-3.3D projection of skin pixels was done by 3D Color Inspector/Color Histogram Tool http://imagej.net/plugins/color-inspector.html 
+3. 3D projection of skin pixels was done by 3D Color Inspector/Color Histogram Tool http://imagej.net/plugins/color-inspector.html 
 
 Some results:
 
