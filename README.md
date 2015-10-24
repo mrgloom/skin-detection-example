@@ -1,14 +1,13 @@
 # Simple-skin-detection
 
-Implemented in python.
-
-Dependencies: numpy, opencv, sklearn.
+Implemented in python. Dependencies: numpy, opencv, sklearn.
 
 1. Simple pixelwise skin detection using [classification tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
 
 2. Histogram backprojection.
 
 Data:
+
 1. Skin Segmentation Data Set from https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
 
 2. face.png image from http://graphics.cs.msu.ru/ru/node/899
