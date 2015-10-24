@@ -26,7 +26,8 @@ TODO:
 ~~~
 1. GMM http://www.ghvandoorn.nl/skindetection.html
 2. Make demo with user input.
-3. Test method on additional datasets.
+3. Evaluate methods on additional datasets.
+4. Try other color spaces http://pesona.mmu.edu.my/~johnsee/research/papers/files/rgbhcbcr_m2usic06.pdf
 ~~~
 
 
