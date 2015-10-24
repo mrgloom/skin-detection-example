@@ -37,3 +37,9 @@ http://lbmedia.ece.ucsb.edu/research/skin/skin.htm
 http://www.feeval.org/Data-sets/Skin_Colors.html
 http://web.fsktm.um.edu.my/~cschan/project1.htm
 ~~~
+
+PAPERS:
+~~~
+"A Survey on Pixel-Based Skin Color Detection Techniques"
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.521&rep=rep1&type=pdf
+~~~
