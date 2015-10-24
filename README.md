@@ -6,11 +6,13 @@ Implemented in python. Dependencies: numpy, opencv, sklearn.
 
 2. Histogram backprojection.
 
-Data:
+Data and tools:
 
 1. Skin Segmentation Data Set from https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
 
 2. face.png image from http://graphics.cs.msu.ru/ru/node/899
+
+3.3D projection of skin pixels was done by 3D Color Inspector/Color Histogram Tool http://imagej.net/plugins/color-inspector.html 
 
 Some results:
 
