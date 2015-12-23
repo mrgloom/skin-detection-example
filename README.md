@@ -28,6 +28,7 @@ TODO:
 2. Make demo with user input.
 3. Evaluate methods on additional datasets.
 4. Try other color spaces http://pesona.mmu.edu.my/~johnsee/research/papers/files/rgbhcbcr_m2usic06.pdf
+5. Incorporate skin detection in face detection framework like https://github.com/collinhover/face_detector
 ~~~
 
 
