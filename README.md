@@ -51,5 +51,6 @@ http://www.cse.psu.edu/~rtc12/CSE586Spring2010/samplePresentation.pdf
 "Lecture 5: Face Localization and Skin Color Detector"
 http://alumni.media.mit.edu/~maov/classes/comp_photo_vision08f/lect/05_skin_detection.pdf
 
-
+"Adaptive Learning of an Accurate Skin-Color Model"
+http://lbmedia.ece.ucsb.edu/resources/ref/fg04ppt.pdf
 ~~~
