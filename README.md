@@ -43,6 +43,13 @@ PAPERS:
 ~~~
 "A Survey on Pixel-Based Skin Color Detection Techniques"
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.521&rep=rep1&type=pdf
+
 "Statistical Color Models with Application to Skin Detection"
 http://www.hpl.hp.com/techreports/Compaq-DEC/CRL-98-11.pdf
+http://www.cse.psu.edu/~rtc12/CSE586Spring2010/samplePresentation.pdf
+
+"Lecture 5: Face Localization and Skin Color Detector"
+http://alumni.media.mit.edu/~maov/classes/comp_photo_vision08f/lect/05_skin_detection.pdf
+
+
 ~~~
