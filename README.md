@@ -30,6 +30,7 @@ TODO:
 4. Try other color spaces http://pesona.mmu.edu.my/~johnsee/research/papers/files/rgbhcbcr_m2usic06.pdf
 5. Incorporate skin detection in face detection framework like https://github.com/collinhover/face_detector
 6. Add video processing example.
+7. Maybe adopt grabcut to this task?
 ~~~
 
 
