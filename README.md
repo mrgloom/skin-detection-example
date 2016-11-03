@@ -39,6 +39,7 @@ DATA:
 http://lbmedia.ece.ucsb.edu/research/skin/skin.htm
 http://www.feeval.org/Data-sets/Skin_Colors.html
 http://web.fsktm.um.edu.my/~cschan/project1.htm
+https://github.com/Maxfashko/CamVid
 ~~~
 
 PAPERS:
