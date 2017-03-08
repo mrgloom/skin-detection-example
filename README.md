@@ -2,17 +2,13 @@
 
 Implemented in python. Dependencies: numpy, opencv, sklearn.
 
-1. Simple pixelwise skin detection using [classification tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
+1. skin_detection_demo - Simple pixelwise skin detection using [decision tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) using pixels in RGB or HSV color space as features.
 
-2. Histogram backprojection.
+Data:
 
-Data and tools:
+Skin Segmentation Data Set from https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
 
-1. Skin Segmentation Data Set from https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
-
-2. face.png image from http://graphics.cs.msu.ru/ru/node/899
-
-3. 3D projection of skin pixels was done by 3D Color Inspector/Color Histogram Tool http://imagej.net/plugins/color-inspector.html 
+face.png image from http://graphics.cs.msu.ru/ru/node/899
 
 Some results:
 
@@ -20,40 +16,10 @@ Some results:
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/results/result_RGB.png) 
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/results/result_HSV.png)
 
+2. silenko_2015_evaluation - Evaluation of pixel classification method on semantic segmentation dataset.
 
-----------------------------------------------------------------------------------------------------------------------
-TODO:
-~~~
-1. GMM http://www.ghvandoorn.nl/skindetection.html http://stackoverflow.com/a/13014985/1179925
-2. Make demo with user input.
-3. Evaluate methods on additional datasets.
-4. Try other color spaces http://pesona.mmu.edu.my/~johnsee/research/papers/files/rgbhcbcr_m2usic06.pdf
-5. Incorporate skin detection in face detection framework like https://github.com/collinhover/face_detector
-6. Add video processing example.
+Data:
 
-~~~
+Semantic segmentation dataset from https://github.com/Maxfashko/CamVid
 
-
-DATA:
-~~~
-http://lbmedia.ece.ucsb.edu/research/skin/skin.htm
-http://www.feeval.org/Data-sets/Skin_Colors.html
-http://www.cs-chan.com/project1.htm
-https://github.com/Maxfashko/CamVid
-~~~
-
-PAPERS:
-~~~
-"A Survey on Pixel-Based Skin Color Detection Techniques"
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.521&rep=rep1&type=pdf
-
-"Statistical Color Models with Application to Skin Detection"
-http://www.hpl.hp.com/techreports/Compaq-DEC/CRL-98-11.pdf
-http://www.cse.psu.edu/~rtc12/CSE586Spring2010/samplePresentation.pdf
-
-"Lecture 5: Face Localization and Skin Color Detector"
-http://alumni.media.mit.edu/~maov/classes/comp_photo_vision08f/lect/05_skin_detection.pdf
-
-"Adaptive Learning of an Accurate Skin-Color Model"
-http://lbmedia.ece.ucsb.edu/resources/ref/fg04ppt.pdf
-~~~
+Some results:
