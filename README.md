@@ -1,4 +1,4 @@
-# Simple-skin-detection
+# skin-detection-example
 
 Implemented in python. Dependencies: numpy, opencv, sklearn.
 
