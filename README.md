@@ -15,11 +15,3 @@ Some results:
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/face.png)
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/results/result_RGB.png) 
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/results/result_HSV.png)
-
-2.silenko_2015_evaluation - Evaluation of pixel classification method on semantic segmentation dataset.
-
-Data:
-
-Semantic segmentation dataset from https://github.com/Maxfashko/CamVid
-
-Some results:
