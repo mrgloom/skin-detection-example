@@ -13,3 +13,10 @@ Results:
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/face.png)
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/results/result_RGB.png) 
 ![alt tag](https://github.com/mrgloom/Simple-skin-detection/blob/master/results/result_HSV.png)
+
+
+TODO:
+~~~
+Add tree visualization
+https://github.com/NikTRSK/Data-Science-and-Machine-Learning-with-Python---Hands-On/blob/master/DecisionTree.ipynb
+~~~
