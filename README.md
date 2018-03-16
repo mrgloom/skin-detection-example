@@ -2,7 +2,7 @@
 
 Implemented in python. Dependencies: numpy, opencv, sklearn.
 
-Simple pixelwise skin detection using [decision tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) using pixels in RGB or HSV color space as features.
+Simple pixelwise skin detection using [decision tree](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) [1](http://scikit-learn.org/stable/modules/tree.html#tree-algorithms-id3-c4-5-c5-0-and-cart) using pixels in RGB or HSV color space as features.
 
 Skin Segmentation Data Set from https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation
 
